@@ -18,13 +18,13 @@ Recommended reading material:
 http://www.jmlr.org/papers/volume10/taylor09a/taylor09a.pdf
 
 ### Week 2 (November 2nd) Transfer Learning Techniques
-Presented by [Melissa Mozifian]()
+Presented by [Melissa Mozifian](https://github.com/melfm)
 
 ### Week 3 (November 9th) Introduction to Hierarchical Reinforcement Learning
-Presented by [Nikhil Kakodkar]()
+Presented by [Nikhil Kakodkar](https://github.com/acenicks)
 
 ### Week 4 (November 16th) TBA
-Presented by [Auguste Lalande]()
+Presented by [Auguste Lalande](https://github.com/augustelalande)
 
 ### Week 4 (November 16th) TBA
-Presented by [Sanjay Thakur]()
+Presented by [Sanjay Thakur](https://github.com/sanjaythakur)
