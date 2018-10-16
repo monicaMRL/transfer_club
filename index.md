@@ -15,9 +15,10 @@ We think these two problems are crucial forpractical applications of learning al
 Presented by [Juan Camilo Gamboa Higuera](https://github.com/juancamilog)
 The purpose of this meeting is to give an overview of the different problem formulations for transfer learning in robotics applicaitons.
 Recommended reading material:
-[http://www.jmlr.org/papers/volume10/taylor09a/taylor09a.pdf](https://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/viewFile/9916/9879)
-[http://taskonomy.stanford.edu/](https://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/viewFile/9916/9879)
-[https://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/viewFile/9916/9879](https://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/viewFile/9916/9879)
+
+ - [http://www.jmlr.org/papers/volume10/taylor09a/taylor09a.pdf](https://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/viewFile/9916/9879)
+ - [http://taskonomy.stanford.edu/](https://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/viewFile/9916/9879)
+ - [https://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/viewFile/9916/9879](https://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/viewFile/9916/9879)
 
 ### Week 2 (November 2nd) Applied Transfer Learning techniques in Robotics
 Presented by [Melissa Mozifian](https://github.com/melfm)
