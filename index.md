@@ -17,6 +17,7 @@ The purpose of this meeting is to give an overview of the different problem form
 Recommended reading material:
 
  - [http://www.jmlr.org/papers/volume10/taylor09a/taylor09a.pdf](https://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/viewFile/9916/9879)
+ - http://acl.mit.edu/papers/Cutler14_ICRA.pdf
  - [http://taskonomy.stanford.edu/](https://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/viewFile/9916/9879)
  - [https://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/viewFile/9916/9879](https://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/viewFile/9916/9879)
 
