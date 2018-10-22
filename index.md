@@ -18,8 +18,9 @@ Recommended reading material:
 
  - [http://www.jmlr.org/papers/volume10/taylor09a/taylor09a.pdf](https://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/viewFile/9916/9879)
  - http://acl.mit.edu/papers/Cutler14_ICRA.pdf
- - [http://taskonomy.stanford.edu/](https://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/viewFile/9916/9879)
+ - https://arxiv.org/abs/1712.06489v1
  - [https://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/viewFile/9916/9879](https://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/viewFile/9916/9879)
+ - [http://taskonomy.stanford.edu/](https://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/viewFile/9916/9879)
 
 ### Week 2 (November 2nd) Applied Transfer Learning techniques in Robotics
 Presented by [Melissa Mozifian](https://github.com/melfm)
