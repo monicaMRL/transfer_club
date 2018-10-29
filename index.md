@@ -12,7 +12,8 @@ We think these two problems are crucial forpractical applications of learning al
 
 ## Schedule
 ### Week 1 (October 26th) Introduction to Transfer Learning in Robotics
-Presented by [Juan Camilo Gamboa Higuera](https://github.com/juancamilog)
+Presented by [Juan Camilo Gamboa Higuera](https://github.com/juancamilog). Slides: [pdf](transfer_club01.pdf) [pptx](transfer_club01.pptx)
+
 The purpose of this meeting is to give an overview of the different problem formulations for transfer learning in robotics applicaitons.
 Recommended reading material:
 
