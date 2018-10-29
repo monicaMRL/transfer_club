@@ -1,7 +1,7 @@
 # Transfer Learning and Hierarchical RL Study Group
 ## Fall 2018/ Winter 2019
-
- **Location**: MC 437 McConnell Engineering Building 
+**URL**: https://mcgillmrl.github.io/transfer_club/
+**Location**: MC 437 McConnell Engineering Building 
 **Time**: Fridays at 4 p.m.
 
 Our study group is concerned with the following two topics:
