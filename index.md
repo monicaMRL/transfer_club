@@ -33,6 +33,7 @@ This Presetation will follow the same format as Juan's presentation of week 1. W
 2) Value Function: Universal Value Function Approximators.
 3) Reward: Little introduction on "Intrinsic Motivation" and Hierarchy in rewards.
 4) Task Parametrization: Hierarchy in lifelong long learning 
+
 --> *Only if time permits and if it interests anyone: "Theory of Mind" (Cognitive Science)* We can also talk about this off-line!
 ### Week 4 (November 16th) TBA
 Presented by [Auguste Lalande](https://github.com/augustelalande)
