@@ -27,7 +27,13 @@ Presented by [Melissa Mozifian](https://github.com/melfm)
 
 ### Week 3 (November 9th) Introduction to Hierarchical Reinforcement Learning
 Presented by [Monica Patel](https://github.com/monicaMRL)
-
+There isn't one paper to summerise this topic so following is brief abstract of what I am planning to present.
+This Presetation will follow the same format as Juan's presentation of week 1. We will explore more on question of "What to Transfer? How its related to Hierarchy?" Some of the What's are:
+1) Control Policies: Options, Skills, Universal Options, Absctract Markov Decision Processes, Policy sketches.
+2) Value Function: Universal Value Function Approximators.
+3) Reward: Little introduction on "Intrinsic Motivation" and Hierarchy in rewards.
+4) Task Parametrization: Hierarchy in lifelong long learning 
+--> *Only if time permits and if it interests anyone: "Theory of Mind" (Cognitive Science)* We can also talk about this off-line!
 ### Week 4 (November 16th) TBA
 Presented by [Auguste Lalande](https://github.com/augustelalande)
 
