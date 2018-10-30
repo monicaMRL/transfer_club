@@ -26,7 +26,7 @@ Recommended reading material:
 Presented by [Melissa Mozifian](https://github.com/melfm)
 
 ### Week 3 (November 9th) Introduction to Hierarchical Reinforcement Learning
-Presented by [Nikhil Kakodkar](https://github.com/acenicks)
+Presented by [Monica Patel](https://github.com/monicaMRL)
 
 ### Week 4 (November 16th) TBA
 Presented by [Auguste Lalande](https://github.com/augustelalande)
