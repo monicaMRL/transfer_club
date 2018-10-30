@@ -29,7 +29,7 @@ Recommended reading material:
 ### Week 2 (November 2nd) Applied Transfer Learning techniques in Robotics
 Presented by [Melissa Mozifian](https://melfm.github.io/about.html)
 
-The purpose of this meeting is to dive into more promising Transfer techniques applied in robotics and other domains.
+The purpose of this meeting is to dive into more promising Transfer techniques applied in robotics.
 Recommended reading material:
 
  - [Learning Dexterous In-Hand Manipulation](https://arxiv.org/pdf/1808.00177.pdf)
