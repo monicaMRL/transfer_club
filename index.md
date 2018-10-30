@@ -34,7 +34,6 @@ Recommended reading material:
 
  - [Learning Dexterous In-Hand Manipulation](https://arxiv.org/pdf/1808.00177.pdf)
  - [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](https://arxiv.org/pdf/1703.03400.pdf)
- - [Learning Unsupervised Learning Rules](https://arxiv.org/abs/1804.00222)
 
 ### Week 3 (November 9th) Introduction to Hierarchical Reinforcement Learning
 Presented by [Nikhil Kakodkar](https://github.com/acenicks)
