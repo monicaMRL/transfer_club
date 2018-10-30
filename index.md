@@ -3,9 +3,9 @@
 
 **URL**: https://mcgillmrl.github.io/transfer_club/
 
-**Location**: MC 437 McConnell Engineering Building 
+**Location**: MC 627 McConnell Engineering Building
 
-**Time**: Fridays at 4 p.m.
+**Time**: Fridays at 4:30 p.m.
 
 Our study group is concerned with the following two topics:
 - Transfer Learning in robotics
@@ -15,7 +15,7 @@ We think these two problems are crucial forpractical applications of learning al
 
 ## Schedule
 ### Week 1 (October 26th) Introduction to Transfer Learning in Robotics
-Presented by [Juan Camilo Gamboa Higuera](https://github.com/juancamilog). Slides: [pdf](transfer_club01.pdf) [pptx](transfer_club01.pptx)
+Presented by [Juan Camilo Gamboa Higuera](https://github.com/juancamilog). Slides: [pdf](presentations/week1_juan/transfer_club01.pdf) [pptx](presentations/week1_juan/ransfer_club01.pptx)
 
 The purpose of this meeting is to give an overview of the different problem formulations for transfer learning in robotics applicaitons.
 Recommended reading material:
@@ -27,7 +27,14 @@ Recommended reading material:
  - [Taskonomy](http://taskonomy.stanford.edu/)
 
 ### Week 2 (November 2nd) Applied Transfer Learning techniques in Robotics
-Presented by [Melissa Mozifian](https://github.com/melfm)
+Presented by [Melissa Mozifian](https://melfm.github.io/about.html)
+
+The purpose of this meeting is to dive into more promising Transfer techniques applied in robotics and other domains.
+Recommended reading material:
+
+ - [Learning Dexterous In-Hand Manipulation](https://arxiv.org/pdf/1808.00177.pdf)
+ - [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](https://arxiv.org/pdf/1703.03400.pdf)
+ - [Learning Unsupervised Learning Rules](https://arxiv.org/abs/1804.00222)
 
 ### Week 3 (November 9th) Introduction to Hierarchical Reinforcement Learning
 Presented by [Nikhil Kakodkar](https://github.com/acenicks)
@@ -35,5 +42,5 @@ Presented by [Nikhil Kakodkar](https://github.com/acenicks)
 ### Week 4 (November 16th) TBA
 Presented by [Auguste Lalande](https://github.com/augustelalande)
 
-### Week 4 (November 16th) TBA
+### Week 5 (November 23rd) TBA
 Presented by [Sanjay Thakur](https://github.com/sanjaythakur)
